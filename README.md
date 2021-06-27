@@ -1,5 +1,5 @@
 ﻿# ProjektIO
 
 Projekt z Inżynierii Oprogramowania <br>
-Do oceny: Lab2, Lab3, Lab4 <br>
+Do oceny: Lab5 (ostatnie) <br>
 Poprawione do oceny: Lab1
